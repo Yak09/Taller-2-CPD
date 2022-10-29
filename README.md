@@ -39,10 +39,10 @@ Menos es mejor. La evaluación es porcentual. Además, cada grupo debe presentar
 resultados del problema y como lo resolvieron.
 
 
-INTEGRANTES GRUPO COM. PARALELA:
+## INTEGRANTES GRUPO COM. PARALELA:
 
-MARTIN MARTINEZ ALLENDE
-MARCELO SILVA ESCALA
-MARCELO TAPIA RIQUELME
-LUKAS POFFAL MUNITA
-ALEX PINO MOYA
+- Lukas Poffal Munita (lukas.poffalm@utem.cl)
+- Martín Martínez Allende (martin.martineza@utem.cl)
+- Alex Pino Moya (alex.pinom@utem.cl)
+- Marcelo Silva Escala (marcelo.silvae@utem.cl)
+- Marcelo Tapia Riquelme (marcelo.tapiar@utem.cl)
