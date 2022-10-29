@@ -12,6 +12,7 @@ Ejecución.
 Se debe ocupar las siguientes API REST de consulta:
 
 • https://pokeapi.co/api/v2/pokemon?offset=[start]&limit=[end]
+
 • https://pokeapi.co/api/v2/pokemon/[id]/
 
 Al momento de consultar las API REST, estas deben entregar el listado total de personajes, los 
