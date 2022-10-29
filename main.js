@@ -91,11 +91,11 @@ async function createPokemon(pokemon) {
 
     //Altura del pokemon.
     const height = document.createElement("p");
-    height.textContent = "Height: "+pokemon["height"]+ " m";
+    height.textContent = "Height: "+(pokemon["height"]/10)+ " m";
 
     //Peso del pokemon.
     const weight = document.createElement("p");
-    weight.textContent = "Weight: "+pokemon["weight"]+ " kg";
+    weight.textContent = "Weight: "+(pokemon["weight"]/10)+ " kg";
     
     //Tipos del pokemon.
     const types = document.createElement("p");
