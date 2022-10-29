@@ -10,6 +10,7 @@ Taller
 Crear una API REST de consulta que obtenga los datos de los personajes Pokémon (POKEDEX)
 Ejecución.
 Se debe ocupar las siguientes API REST de consulta:
+
 • https://pokeapi.co/api/v2/pokemon?offset=[start]&limit=[end]
 • https://pokeapi.co/api/v2/pokemon/[id]/
 
