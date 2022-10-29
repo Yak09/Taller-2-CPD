@@ -51,7 +51,7 @@ Menos es mejor. La evaluación es porcentual. Además, cada grupo debe presentar
 resultados del problema y como lo resolvieron.
 
 
-## INTEGRANTES GRUPO COM. PARALELA:
+## INTEGRANTES GRUPO COMP. PARALELA:
 
 - Lukas Poffal Munita (lukas.poffalm@utem.cl)
 - Martín Martínez Allende (martin.martineza@utem.cl)
