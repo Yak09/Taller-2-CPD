@@ -1,7 +1,7 @@
-## Taller. 2
+# Taller. 2
 
 12 de octubre del 2022.
-# RESUMEN
+## RESUMEN
 
 El objetivo del presente instrumento evaluativo busca medir los conocimientos adquiridos durante 
 el transcurso de la carrera. 
@@ -28,19 +28,19 @@ Dentro de la información que se debe mostrar por cada Pokémon se debe desplega
 • Ubicación
 • Sprite o imágen
 
-# Código.
+## Código.
 
 La fecha límite de entrega es el sábado 29 de octubre del 2022 en horario de clases. Este
 programa se debe trabajar en (Lenguaje a elección) y el código fuente debe estar en un 
 repositorio público de Github por cada grupo.
-##EVALUACIÓN
+## EVALUACIÓN
 
-#Documentación.
+## Documentación.
 
 Parte de la evaluación consiste en la documentación de las funciones. Que debe ser clara, concisa 
 y descriptiva de lo que el código realiza.
 
-#Código
+## Código
 
 El código debe ser claro, fácil de leer, ordenado y cumplir con buenas prácticas de programación, 
 se inspeccionará el código fuente.
